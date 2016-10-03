@@ -88,7 +88,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
+                <img class="img-circle img-responsive img-center" src="./img/laura.jpg" alt="">
                 <h3>John Smith
                     <small>Job Title</small>
                 </h3>
